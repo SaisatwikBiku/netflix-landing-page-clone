@@ -149,7 +149,7 @@ nav button{
 }
 
 .secImg img{
-    width: 555px;
+    width: 565px;
     position: relative;
     z-index: 10;
 }
@@ -158,7 +158,7 @@ nav button{
     position: absolute;
     top: 100px;
     right: 0;
-    width: 480px;
+    width: 490px;
 }
 
 .first> div{
@@ -243,7 +243,7 @@ footer .questions{
     }
 
     .first{
-        height: 55vh;
+        height: 90vh;
     }
 
     nav img{
